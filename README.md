@@ -23,13 +23,21 @@ cd phishing-url-scanner
 ```
 
 2. Install dependencies:
-
+```bash
 
 pip install requests python-whois
+```
 
 3. Run the script:
 
 python phishing_scanner.py
+
+**Contributing**
+
+Contributions are welcome! If you have suggestions or improvements, feel free to fork the repository and submit a pull request.
+
+**License**
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 
 
